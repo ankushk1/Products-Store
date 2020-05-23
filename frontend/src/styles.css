@@ -1,0 +1,28 @@
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+body {
+  height: 100vh;
+  background-image: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* footer {
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+} */
+.nav {
+  background-image: linear-gradient(
+    90deg,
+    rgba(21, 13, 107, 1) 1.1%,
+    rgba(188, 16, 80, 1) 130.5%
+  );
+}
+
+.jumbotron {
+  background-image: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+}
